@@ -64,40 +64,6 @@ const developer = {
 
 ---
 
-### 🚀 Featured Work
-
-| Project | Description | Stack |
-|---|---|---|
-| 🔗 **LOS × POSPAY Integration** | Loan disbursement & real-time payment monitoring — from application to payment reporting in one secure flow. *(In production)* | PHP · MySQL · REST API |
-| 🕒 **Posent Apps** | Digital attendance, permits, work reports & employee profiles, all recorded in real time. *(In production)* | PHP · MySQL · Mobile-first |
-| 🎫 **Ticket Apps** | Support ticket & operational issue management with structured flows and dashboards. *(In production)* | PHP · MySQL |
-| 🏦 **LOS — KMG Apps** | End-to-end loan origination system for multi-purpose loan applications. | PHP · MySQL |
-| 👴 **LOS — Pensiun Apps** | Loan origination system for retirees (Taspen, Asabri, etc.). | PHP · MySQL |
-| 🛒 **POS Kasir Apps** | Point of sales for MSMEs & retail — transactions, reports and stock in real time. | PHP · MySQL |
-| 🔧 **POS & Service Apps** | Sales, service operations, inventory and customer management in one system. | PHP · MySQL |
-| 🚗 **Workshop Management Apps** | Work orders, spare parts inventory, customer records and payments for vehicle servicing. | PHP · MySQL |
-| 🕌 **Zakat Apps** | Zakat collection, distribution & reporting with real-time tracking and receipts. | PHP · MySQL |
-| ✈️ **Booking & Travel Apps** | Trip planning, destination discovery and booking management. | PHP · MySQL |
-| 📰 **Website CMS Apps** | Manage website content, company profiles and digital assets via dashboard. | PHP · MySQL |
-
-> 🎨 Also: UI/UX design, WordPress company profiles, apparel design, product packaging mockups & social media campaigns.<br/>
-> 👉 See full case studies on my **[portfolio](https://portfolio-darva.netlify.app/)**.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=darvadrasthya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darvadrasthya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-<img src="https://streak-stats.demolab.com?user=darvadrasthya&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Have a system, product, or idea in mind?
